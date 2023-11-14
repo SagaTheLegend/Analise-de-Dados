@@ -1,0 +1,17 @@
+﻿ID;Nome do Produto;Unidade;NCM;Origem;Preço;Situação;Estoque;Preço de Custo;Fornecedor ID
+1;Fone de ouvido esportivo intra-auricular QCY T22;UN;8518.30.00;Amazon;189.9;Ativo;2;113.42;1
+2;Gabinete Gamer Liketec Cycle, Mid Tower, Acrílico, M-ATX, Black, Sem Fonte, Com 3 Fans;UN;8518.30.01;Terabyte;299.9;;119.99;2
+3;HD SSD Kingston SA400S37 480GB SATA III 6Gb/s;UN;8471.70.40;AliExpress;179.9;Ativo;6;96.03;9
+4;Headset Gamer Dazz Special Forces Jungle, 3.5mm, Surround 2.0, Múltiplas Plataformas;UN;8471.70.41;Fujioka distribuidor;99.9;;23.99;4
+5;Headset Gamer KWG Taurus P1, RGB, Drivers de 50mm, USB, Black;UN;8471.70.42;Fujioka distribuidor;199.9;Ativo;6;109.99;4
+6;Headset sem fio QCY-H2;UN;8518.30.00;Fujioka distribuidor;199.9;Ativo;1;110.11;4
+7;Memória RAM 8GB 2666Mhz NETAC Shadow II;UN;8518.30.01;AliExpress;139.9;Ativo;3;94;1
+8;Mouse Gamer Ninja Claw, RGB, 6 Botões, 3600 DPI, Preto;UN;8471.60.53;Terabyte;89.9;Ativo;3;23.3;2
+9;Mouse Gamer Ninja Control, RGB, 6 Botões, 3200 DPI, Preto;UN;8471.60.53;Terabyte;99.9;Ativo;1;29.99;2
+10;Mouse Gamer Ninja Shark, RGB, 8 Botões, 7200 DPI, Preto;UN;8471.60.53;Terabyte;149.9;Ativo;1;69.99;2
+11;Mousepad Gamer Mega Grande - TEMA CYBERPUNK;UN;8471.60.54;Terabyte;119.9;Ativo;2;45.95;2
+12;SSD Hikvision Desire, 128GB, M.2 NVMe, Leitura 500MBs e Gravação 1200MBs;UN;8471.60.55;Mega+ DF;169.9;Ativo;6;85.99;1
+13;Switch Mecânico Akko Tactile cream blue;UN;8471.60.56;AliExpress;7.99;Ativo;43;2.3;11
+14;Teclado Gamer Mecânico Redragon Lakshmi Lunar White, Rainbow, Switch Brown, ABNT2, K606W-R;UN;8471.60.57;Terabyte;199;Ativo;3;99.99;2
+15;Tripé Selfie;UN;8518.30.03;Amazon;49.9;Ativo;0;29.99;1
+16;Carregador de Ponta Magnética;UN;8518.30.04;Fujioka distribuidor;29.9;Ativo;0;15.99;4
